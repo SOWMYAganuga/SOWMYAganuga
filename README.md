@@ -8,8 +8,8 @@
 ---
 
 ## 🚀 About Me  
-I’m a passionate **DevOps Engineer** experienced in building automated CI/CD pipelines, managing cloud infrastructure, and containerizing applications for scalable deployments.  
-I love working with modern DevOps tools and scripting technologies to streamline software delivery and improve efficiency.  
+- I’m a passionate **DevOps Engineer** experienced in building automated CI/CD pipelines, managing cloud infrastructure, and containerizing applications for scalable deployments.  
+- I love working with modern DevOps tools and scripting technologies to streamline software delivery and improve efficiency.  
 
 ---
 
