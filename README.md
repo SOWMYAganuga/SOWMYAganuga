@@ -4,8 +4,7 @@
 
 📧 **Email:** [sowmyaganuga956@gmail.com](mailto:sowmyaganuga956@gmail.com)  
 🌐 **GitHub Username:** [SOWMYAganuga](https://github.com/SOWMYAganuga)
-🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sowmya-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmya-ganugapenta-493b26159/)
-
+🔗 **LinkedIn:** [Sowmya Ganugapenta](https://www.linkedin.com/in/sowmya-ganugapenta-493b26159/)
 
 ---
 
