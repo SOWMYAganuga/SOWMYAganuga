@@ -3,7 +3,7 @@
 💻 **DevOps Engineer | Cloud Enthusiast | Automation & CI/CD Specialist**
 
 📧 **Email:** [sowmyaganuga956@gmail.com](mailto:sowmyaganuga956@gmail.com)  
-🌐 **GitHub Username:** [SOWMYAganuga](https://github.com/SOWMYAganuga)
+🌐 **GitHub:** [SOWMYAganuga](https://github.com/SOWMYAganuga)  
 🔗 **LinkedIn:** [Sowmya Ganugapenta](https://www.linkedin.com/in/sowmya-ganugapenta-493b26159/)
 
 ---
